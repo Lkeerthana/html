@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
+    </head>
+    <body>
+           <div>
+               <h1>suriya</h1>
+               <h3>In this Indian name suriya, the name Sivakumar is a patronymic, and the person should be referred to by the given name, Saravanan.
+                
+                Saravanan Sivakumar (born 23 July 1975), known by his stage name Suriya, is an Indian actor, producer and television presenter best known for his work in Tamil cinema. Among his awards include three Tamil Nadu State Film Awards, four Filmfare Awards South, two Edison Awards, a Cinema Express Award,[4] a CineMAA Award and a Vijay Award.
+                 Based on the earnings of Indian celebrities, Suriya has been included in the Forbes India Celebrity 100 list six times.
+                
+                After making his debut in Nerukku Ner (1997), Suriya landed his breakthrough role in Nandha (2001) and then had his first major commercial success with the thriller, Kaakha Kaakha (2003).
+                 Following award-winning performances of a conman in Pithamagan (2003) and a hunchback in Perazhagan (2004), he played a man suffering from anterograde amnesia, in the 2005 blockbuster Ghajini.
+                 He rose to stardom with dual roles of a father and son in Gautham Menon's semi-autobiographical Vaaranam Aayiram (2008).
+                 His status as an action star was established with roles of a smuggler in Ayan (2009), and an aggressive cop in the Singam trilogy.
+                 Suriya also found success with the science fiction films 7aum Arivu (2011) and 24 (2016).
+                
+                Suriya is the eldest child of Tamil film actor Sivakumar and his younger brother Karthi is also an actor. 
+                He married co-star Jyothika in 2006. In 2008, he began Agaram Foundation, which funds for various philanthropic activities. 
+                The year 2012 marked his debut as a television presenter with the Star Vijay game show Neengalum Vellalam Oru Kodi, the Tamil version of Who Wants to Be a Millionaire?.
+                In 2013, Suriya founded the production house 2D Entertainment.</h3>
+                <p><img src="https://images.news18.com/ibnlive/uploads/2020/07/1595479629_suriya.jpg">
+            </p>
+            <h2><i>my favourite movies of suriya</i></h2>
+            <ul>
+                <li>kaakha kaakha</li>
+                <li>mayavi</li>
+                <li>aaru</li>
+                <li>sillunu oru kadhal</li>
+                <li>vaaranam aayiram</li>
+                <li>ayan</li>
+                <li>aadhavan</li>
+                <li>singam</li>
+                <li>7aum arivu</li>
+                <li>maatraan</li>
+                <li>pasanga 2</li>
+
+            </ul>
+           </div>
+    </p>
+    </body>
+</html>
